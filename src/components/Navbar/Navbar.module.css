@@ -1,0 +1,16 @@
+.navbar {
+    height: 100px;
+    background-color: teal;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.navbar .link {
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+.navbar .activeLink {
+    color: gold;
+}
