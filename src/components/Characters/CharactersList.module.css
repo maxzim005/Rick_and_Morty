@@ -1,6 +1,6 @@
 .characters_list{
     display: flex;
     align-items: center;
-    justify-content: space-around;
+    justify-content: start;
     flex-wrap: wrap;
 }
