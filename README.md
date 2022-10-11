@@ -1,4 +1,6 @@
-### This is react-app project. During coding i have learned how to work with API by fetch and axios.
+### This is react-app project. During coding i have learned how to:
+#### - work with API by fetch and axios.
+#### - create pagination and search bar.
 
 # Getting Started with Create React App
 
