@@ -1,3 +1,5 @@
+### This is react-app project. During coding i have learned how to work with API by fetch and axios.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
